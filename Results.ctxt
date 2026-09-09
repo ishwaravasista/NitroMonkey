@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Results
+comment0.text=\r\n\ Displays\ the\ results\ of\ a\ completed\ typing\ test,\ including\ final\ WPM,\ accuracy,\r\n\ and\ a\ WPM-over-time\ chart.\ Handles\ user\ input\ for\ restarting\ the\ test\ or\ returning\r\n\ to\ the\ word-list\ chooser.\r\n
+comment1.params=stage\ finalWPM\ finalAccuracy\ wpmOverTime\ displayedWords\ ghostWPM\ userWon\ timerLimit\ chooserScene\ currentTheme\ displayName
+comment1.target=Results(javafx.stage.Stage,\ int,\ int,\ java.util.List,\ java.lang.String,\ int,\ boolean,\ int,\ javafx.scene.Scene,\ Theme,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ Results\ screen\ with\ all\ necessary\ data\ from\ a\ completed\ test.\r\n\r\n\ @param\ stage\ \ \ \ \ \ \ \ \ \ the\ primary\ Stage\ to\ display\ this\ scene\ on\r\n\ @param\ finalWPM\ \ \ \ \ \ \ the\ user\u2019s\ final\ words-per-minute\ score\r\n\ @param\ finalAccuracy\ \ the\ user\u2019s\ final\ accuracy\ percentage\r\n\ @param\ wpmOverTime\ \ \ \ list\ of\ WPM\ values\ recorded\ each\ second\r\n\ @param\ displayedWords\ the\ text\ that\ was\ used\ during\ the\ test\r\n\ @param\ ghostWPM\ \ \ \ \ \ \ the\ AI\ opponent\u2019s\ WPM\ \r\n\ @param\ userWon\ \ \ \ \ \ \ \ true\ if\ the\ user\ beat\ the\ ghost,\ false\ otherwise\r\n\ @param\ timerLimit\ \ \ \ \ the\ duration\ of\ the\ test\ in\ seconds\r\n\ @param\ chooserScene\ \ \ the\ Scene\ to\ return\ to\ when\ pressing\ ESC\r\n\ @param\ currentTheme\ \ \ the\ UI\ theme\ currently\ applied\r\n\ @param\ displayName\ \ \ \ button\ name\ of\ the\ chosen\ word\ list\r\n
+comment2.params=
+comment2.target=void\ showResults()
+comment2.text=\r\n\ Builds\ and\ displays\ the\ results\ UI,\ including\ statistics\ labels,\r\n\ the\ WPM-over-time\ LineChart,\ and\ key\ event\ handlers\ for\ ENTER\ and\ ESC.\r\n
+numComments=3

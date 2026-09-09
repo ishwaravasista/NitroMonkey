@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tiramisu
+comment0.text=\r\n\ Tiramisu\ theme\:\ a\ warm,\ neutral\ theme\ with\ earthy\ buttons.\r\n
+comment1.params=
+comment1.target=javafx.scene.paint.Color\ getBackgroundColor()
+comment1.text=\r\n\ @return\ the\ background\ color\ for\ the\ Tiramisu\ theme\r\n
+comment2.params=
+comment2.target=javafx.scene.paint.Color\ getButtonColor()
+comment2.text=\r\n\ @return\ the\ primary\ button\ color\ for\ the\ Tiramisu\ theme\r\n
+comment3.params=
+comment3.target=javafx.scene.paint.Color\ getTextColor()
+comment3.text=\r\n\ @return\ the\ default\ text\ color\ for\ the\ Tiramisu\ theme\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFontFamily()
+comment4.text=\r\n\ @return\ the\ font\ family\ used\ by\ the\ Tiramisu\ theme\r\n
+comment5.params=
+comment5.target=javafx.scene.paint.Color\ getHoverColor()
+comment5.text=\r\n\ @return\ the\ hover\ color\ for\ buttons\ in\ the\ Tiramisu\ theme\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Theme
+comment0.text=\r\n\ Abstract\ base\ class\ defining\ the\ color\ and\ font\ properties\ for\ a\ UI\ theme.\r\n\ Concrete\ subclasses\ must\ provide\ specific\ color\ values\ and\ font\ choices.\r\n
+comment1.params=
+comment1.target=javafx.scene.paint.Color\ getBackgroundColor()
+comment1.text=\r\n\ @return\ the\ background\ color\ used\ across\ the\ application\ screens\r\n
+comment2.params=
+comment2.target=javafx.scene.paint.Color\ getButtonColor()
+comment2.text=\r\n\ @return\ the\ primary\ button\ color\ used\ for\ clickable\ elements\r\n
+comment3.params=
+comment3.target=javafx.scene.paint.Color\ getTextColor()
+comment3.text=\r\n\ @return\ the\ text\ color\ used\ for\ main\ labels\ and\ instructions\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFontFamily()
+comment4.text=\r\n\ @return\ the\ font\ family\ name\ to\ use\ for\ on-screen\ text\ (e.g.,\ "Roboto\ Mono")\r\n
+comment5.params=
+comment5.target=javafx.scene.paint.Color\ getHoverColor()
+comment5.text=\r\n\ @return\ the\ hover\ color\ applied\ when\ the\ user\ mouses\ over\ buttons\r\n
+numComments=6

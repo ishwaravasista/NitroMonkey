@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Strawberry
+comment0.text=\r\n\ Lilac\ Mist\ theme\:\ a\ light\ lavender\ theme\ with\ soft\ purple\ accents.\r\n
+comment1.params=
+comment1.target=javafx.scene.paint.Color\ getBackgroundColor()
+comment1.text=\r\n\ @return\ the\ background\ color\ for\ the\ Lilac\ Mist\ theme\r\n
+comment2.params=
+comment2.target=javafx.scene.paint.Color\ getButtonColor()
+comment2.text=\r\n\ @return\ the\ primary\ button\ color\ for\ the\ Lilac\ Mist\ theme\r\n
+comment3.params=
+comment3.target=javafx.scene.paint.Color\ getTextColor()
+comment3.text=\r\n\ @return\ the\ default\ text\ color\ for\ the\ Lilac\ Mist\ theme\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFontFamily()
+comment4.text=\r\n\ @return\ the\ font\ family\ used\ by\ the\ Lilac\ Mist\ theme\r\n
+comment5.params=
+comment5.target=javafx.scene.paint.Color\ getHoverColor()
+comment5.text=\r\n\ @return\ the\ hover\ color\ for\ buttons\ in\ the\ Lilac\ Mist\ theme\r\n
+numComments=6

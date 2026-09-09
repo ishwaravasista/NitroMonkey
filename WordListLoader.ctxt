@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WordListLoader
+comment0.text=\r\n\ Utility\ class\ responsible\ for\ loading\ word\ lists\ from\ files\ on\ disk.\r\n\ Each\ word\ list\ is\ expected\ to\ be\ in\ the\ "wordlists"\ directory.\r\n
+comment1.params=fileName
+comment1.target=java.util.List\ load(java.lang.String)
+comment1.text=\r\n\ Reads\ all\ lines\ from\ the\ specified\ word\ list\ file\ and\ returns\ them\ as\ a\ List\ of\ Strings.\r\n\ \r\n\ @param\ fileName\ the\ name\ of\ the\ word\ list\ file\ located\ in\ the\ "wordlists"\ folder\r\n\ @return\ a\ List\ of\ words\ read\ from\ the\ file,\ in\ their\ original\ order\r\n\ @throws\ RuntimeException\ if\ the\ file\ cannot\ be\ read\ or\ an\ I/O\ error\ occurs\r\n
+numComments=2
